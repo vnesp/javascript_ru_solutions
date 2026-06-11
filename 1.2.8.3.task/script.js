@@ -1,3 +1,7 @@
+'use strict';
+
+let a;
+
 a = "" - 1 + 0;
 console.log(typeof a, a);   // number -1
 
